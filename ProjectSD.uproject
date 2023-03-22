@@ -20,6 +20,10 @@
 		{
 			"Name": "AudioGameplay",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
